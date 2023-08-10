@@ -8137,7 +8137,7 @@ blockquote {
     }
 
     .project-item-image {
-        width: 90vw;
+        width: 20vw;
         
     }
 
@@ -9253,7 +9253,7 @@ blockquote {
         background-image: linear-gradient(to bottom, rgb(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url(/imgs/mo-bg.jpg);
         background-repeat: no-repeat;
         background-position: 75% 100%;
-        background-size: 185% 85%;
+        background-size: 183% 85%;
     }
 
     .footer-logo-link {
