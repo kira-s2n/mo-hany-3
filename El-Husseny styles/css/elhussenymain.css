@@ -5891,7 +5891,7 @@ blockquote {
     position: relative;
     overflow: hidden;
     background-color: #000;
-    background-image: linear-gradient(rgb(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)), url(https://i.ibb.co/YhYX8MK/cvx.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0, 0.6), rgb(0, 0, 0, 0.7)), url(https://i.ibb.co/YhYX8MK/cvx.jpg);
     background-position: 50% 10%;
     background-size: cover;
 }
@@ -8098,7 +8098,8 @@ blockquote {
     }
 
     .person-image {
-        bottom: -5%;
+        bottom: -7%;
+        width: 75%;
     }
 
     .heading-holder {
@@ -8417,6 +8418,7 @@ blockquote {
 
     .home-page-hero-section {
         padding-top: 40vw;
+        background-image: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.4)), url(https://i.ibb.co/D53P9Dv/tezy.png);
     }
 
     .light-weight {
@@ -9248,10 +9250,10 @@ blockquote {
     }
 
     .nav-link-holder {
-        background-image: linear-gradient(to bottom, rgb(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)), url(/imgs/mo-bg.jpg);
+        background-image: linear-gradient(to bottom, rgb(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url(/imgs/mo-bg.jpg);
         background-repeat: no-repeat;
-        background-position: 80% 100%;
-        background-size: 180% 80%;
+        background-position: 75% 100%;
+        background-size: 185% 85%;
     }
 
     .footer-logo-link {
