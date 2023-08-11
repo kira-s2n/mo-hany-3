@@ -4931,7 +4931,7 @@ blockquote {
 
 .project-item-image {
     z-index: 5;
-    width: 40%;
+    width: 75%;
     height: 60vh;
     object-fit: cover;
     position: absolute;
@@ -7279,7 +7279,7 @@ blockquote {
     }
 
     .project-item-image {
-        width: 40vw;
+        width: 50vw;
         height: 50vw;
     }
 
@@ -7491,7 +7491,7 @@ blockquote {
 
     .project-list {
         grid-column-gap: 3em;
-        grid-row-gap: 7em;
+        grid-row-gap: 12em;
         flex-direction: column;
         justify-content: flex-start;
         align-items: stretch;
@@ -8137,7 +8137,8 @@ blockquote {
     }
 
     .project-item-image {
-        width: 20vw;
+        width: 60vw;
+        height: 30vh;
         
     }
 
