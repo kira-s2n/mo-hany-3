@@ -4931,7 +4931,7 @@ blockquote {
 
 .project-item-image {
     z-index: 5;
-    width: 60%;
+    width: 40%;
     height: 60vh;
     object-fit: cover;
     position: absolute;
