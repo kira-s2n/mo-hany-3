@@ -9234,7 +9234,7 @@ blockquote {
     .hero-secondary-text {
         width: 350px; 
         font-size: 30px; 
-      }
+    }
 }
 
 @media (max-width: 490px) {
@@ -9243,6 +9243,11 @@ blockquote {
         font-size: 25px; 
         text-align: center;
     }
+
+    .p-img {
+        height: 250px;
+    }
+
     .hero-about-me-holder {
         display: flex;
         flex-direction: column;
@@ -9371,7 +9376,7 @@ img {vertical-align: middle;}
 }
 
 .active {
-  background-color: #717171;
+  background-color: #796652;
 }
 
 /* Fading animation */
