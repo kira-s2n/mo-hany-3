@@ -9333,6 +9333,9 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
   padding: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Caption text */
