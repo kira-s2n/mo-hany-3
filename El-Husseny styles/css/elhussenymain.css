@@ -9244,7 +9244,7 @@ blockquote {
     }
 
     .p-img {
-        height: 300px;
+        height: 400px;
     }
 
     .hero-about-me-holder {
@@ -9371,6 +9371,7 @@ img {vertical-align: middle;}
         padding-right: 30px;
         background-color: white;
     }
+
 }
 
 /* Caption text */
