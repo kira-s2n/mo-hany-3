@@ -4441,7 +4441,7 @@ blockquote {
     z-index: -1;
     width: 100%;
     height: 100%;
-    max-height: 30px;
+    max-height: 50px;
     max-width: 150px;
     padding-left: 60px;
 }
@@ -6602,6 +6602,7 @@ blockquote {
     grid-column-gap: 2.8em;
     grid-row-gap: 0em;
     grid-template-rows: auto;
+    
 }
 
 .headling-overflow-hidden {
@@ -9257,8 +9258,8 @@ blockquote {
     .nav-link-holder {
         background-image: linear-gradient(to bottom, rgb(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)), url(/imgs/mo-bg.jpg);
         background-repeat: no-repeat;
-        background-position: right;
-        background-size: cover;
+        background-position: 75% 100%;
+        background-size: 183% 85%;
     }
 
     .footer-logo-link {
