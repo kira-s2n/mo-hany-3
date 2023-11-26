@@ -3809,7 +3809,7 @@ blockquote {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    padding-top: 0;
+    padding-top: 30px;
     padding-bottom: 10px;
     padding-left: 15px;
     display: flex;
@@ -5908,7 +5908,7 @@ blockquote {
 }
 
 .dim-gray-body-color {
-    background-color: #57504a;
+    background-color: #000000;
 }
 
 .blog-full-container {
@@ -6942,7 +6942,7 @@ blockquote {
 
     .footer-bottom {
         height: 17vh;
-        padding-top: 0;
+        padding-top: 30px;
         padding-bottom: 0;
         padding-left: 5px;
     }
@@ -7047,7 +7047,7 @@ blockquote {
     }
 
     .dim-gray-body-color {
-        background-color: #57504a;
+        background-color: #000000;
     }
 
     .blog-full-container {
